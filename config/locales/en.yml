@@ -2985,7 +2985,7 @@ en:
       index:
         funding_html: |
           Funding for the development of Guides was provided by
-          <a href="http://eol.org"><img src="http://eol.org/assets/v2/logo_footer-f957369bba1a5f243e431ca0b80a2c32.png"></a>
+          <a href="http://eol.org"><img src="https://eol.org/assets/v2/logo_footer-f957369bba1a5f243e431ca0b80a2c32.png"></a>
         welcome_message_html: |
           Guides help you learn about biodiversity all around the world.
           Whether you're exploring the Serengeti or just your local park
